@@ -1,6 +1,5 @@
 #ifndef _UTHREAD_H
 #define _UTHREAD_H
-
 #include <stdbool.h>
 
 /*

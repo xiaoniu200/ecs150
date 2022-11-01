@@ -5,7 +5,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/time.h>
-
 #include "queue.h"
 #include "private.h"
 #include "uthread.h"

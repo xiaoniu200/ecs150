@@ -7,6 +7,7 @@ objs := queue.o uthread.o context.o preempt.o sem.o
 # flags
 CFLAGS	:= -Wall -Wextra -Werror
 CFLAGS	+= -pipe
+
 ## Debug flag
 ifneq ($(D),1)
 CFLAGS	+= -O2

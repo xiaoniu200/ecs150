@@ -6,7 +6,6 @@
 #include <stdlib.h>
 #include <sys/time.h>
 #include <string.h>
-
 #include "private.h"
 #include "uthread.h"
 

@@ -1,7 +1,6 @@
 #include <stddef.h>
 #include <stdlib.h>
 #include <stdio.h>
-
 #include "queue.h"
 #include "sem.h"
 #include "private.h"
